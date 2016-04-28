@@ -1,0 +1,256 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Bold
+FamilyName:Minion Pro
+StyleName:Bold
+MenuName:Minion Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Bold
+WritingScript:Roman
+OutlineFileName:\MinionPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218116
+FileModTime:1443441565
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro Bold
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-BoldCn
+FamilyName:Minion Pro
+StyleName:Bold Cond
+MenuName:Minion Pro Cond
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Minion Pro Bold Cond
+WritingScript:Roman
+OutlineFileName:\MinionPro-BoldCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:219288
+FileModTime:1443441552
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro Bold Cond
+NameArray:0,Win,1,Minion Pro Cond
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-BoldCnIt
+FamilyName:Minion Pro
+StyleName:Bold Cond Italic
+MenuName:Minion Pro Cond
+StyleBits:3
+WeightClass:700
+WidthClass:3
+AngleClass:1
+FullName:Minion Pro Bold Cond Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-BoldCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:262784
+FileModTime:1443441552
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Bold Cond Ital
+NameArray:0,Mac,4,Minion Pro Bold Cond Italic
+NameArray:0,Win,1,Minion Pro Cond
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-It
+FamilyName:Minion Pro
+StyleName:Italic
+MenuName:Minion Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:259940
+FileModTime:1443441565
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Ital
+NameArray:0,Mac,4,Minion Pro Italic
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Medium
+FamilyName:Minion Pro
+StyleName:Medium
+MenuName:Minion Pro Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Medium
+WritingScript:Roman
+OutlineFileName:\MinionPro-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:219416
+FileModTime:1443441552
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Med
+NameArray:0,Mac,4,Minion Pro Medium
+NameArray:0,Win,1,Minion Pro Med
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-MediumIt
+FamilyName:Minion Pro
+StyleName:Medium Italic
+MenuName:Minion Pro Med
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Medium Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-MediumIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:259260
+FileModTime:1443441552
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Med Ital
+NameArray:0,Mac,4,Minion Pro Medium Italic
+NameArray:0,Win,1,Minion Pro Med
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1443441565
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Semibold
+FamilyName:Minion Pro
+StyleName:Semibold
+MenuName:Minion Pro SmBd
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Semibold
+WritingScript:Roman
+OutlineFileName:\MinionPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:221460
+FileModTime:1443441552
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro SmBd
+NameArray:0,Mac,4,Minion Pro Semibold
+NameArray:0,Win,1,Minion Pro SmBd
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Semibold
+FamilyName:Myriad Pro
+StyleName:Semibold
+MenuName:Myriad Pro Light
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro Semibold
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97288
+FileModTime:1443441565
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Semibold
+NameArray:0,Win,1,Myriad Pro Light
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldIt
+FamilyName:Myriad Pro
+StyleName:Semibold Italic
+MenuName:Myriad Pro Light
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Myriad Pro Semibold Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99488
+FileModTime:1443441565
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro Semibold It
+NameArray:0,Mac,4,Myriad Pro Semibold Italic
+NameArray:0,Win,1,Myriad Pro Light
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
