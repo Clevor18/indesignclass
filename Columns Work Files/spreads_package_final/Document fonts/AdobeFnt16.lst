@@ -1,0 +1,177 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BodoniMTBlack
+FamilyName:Bodoni MT
+StyleName:Black
+FullName:Bodoni MT Black
+MenuName:Bodoni MT Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Trevor\Desktop\indesignclass_2\Columns Work Files\spreads_package_final\Document fonts\BOD_BLAR.TTF
+DataFormat:sfntData
+FileLength:73616
+FileModTime:1388334993
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bodoni MT Black
+NameArray:0,Win,1,Bodoni MT Black
+NameArray:0,Win,16,Bodoni MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BodoniMTCondensed-Bold
+FamilyName:Bodoni MT
+StyleName:Condensed Bold
+FullName:Bodoni MT Condensed Bold
+MenuName:Bodoni MT Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Trevor\Desktop\indesignclass_2\Columns Work Files\spreads_package_final\Document fonts\BOD_CB.TTF
+DataFormat:sfntData
+FileLength:74092
+FileModTime:1388334992
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Bodoni MT Condensed Bold
+NameArray:0,Win,1,Bodoni MT Condensed
+NameArray:0,Win,16,Bodoni MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BodoniMT
+FamilyName:Bodoni MT
+StyleName:Regular
+FullName:Bodoni MT
+MenuName:Bodoni MT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Trevor\Desktop\indesignclass_2\Columns Work Files\spreads_package_final\Document fonts\BOD_R.TTF
+DataFormat:sfntData
+FileLength:77884
+FileModTime:1388334993
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bodoni MT
+NameArray:0,Win,1,Bodoni MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Century
+FamilyName:Century
+StyleName:Regular
+FullName:Century
+MenuName:Century
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Trevor\Desktop\indesignclass_2\Columns Work Files\spreads_package_final\Document fonts\CENTURY.TTF
+DataFormat:sfntData
+FileLength:165248
+FileModTime:1388334993
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century
+NameArray:0,Win,1,Century
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Corbel
+FamilyName:Corbel
+StyleName:Regular
+FullName:Corbel
+MenuName:Corbel
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Trevor\Desktop\indesignclass_2\Columns Work Files\spreads_package_final\Document fonts\corbel.ttf
+DataFormat:sfntData
+FileLength:260648
+FileModTime:1446189485
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Corbel
+NameArray:0,Win,1,Corbel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Corbel-Bold
+FamilyName:Corbel
+StyleName:Bold
+FullName:Corbel Bold
+MenuName:Corbel
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Trevor\Desktop\indesignclass_2\Columns Work Files\spreads_package_final\Document fonts\corbelb.ttf
+DataFormat:sfntData
+FileLength:274388
+FileModTime:1446189485
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Corbel Bold
+NameArray:0,Win,1,Corbel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HPSimplified-Bold
+FamilyName:HP Simplified
+StyleName:Bold
+FullName:HP Simplified Bold
+MenuName:HP Simplified
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Trevor\Desktop\indesignclass_2\Columns Work Files\spreads_package_final\Document fonts\HPSimplified_Bd.ttf
+DataFormat:sfntData
+FileLength:111764
+FileModTime:1425927768
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HP Simplified Bold
+NameArray:0,Mac,4,HP Simplified Bold
+NameArray:0,Win,1,HP Simplified
+NameArray:0,Win,16,HP Simplified
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HPSimplified-BoldItalic
+FamilyName:HP Simplified
+StyleName:Bold Italic
+FullName:HP Simplified Bold Italic
+MenuName:HP Simplified
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Trevor\Desktop\indesignclass_2\Columns Work Files\spreads_package_final\Document fonts\HPSimplified_BdIt.ttf
+DataFormat:sfntData
+FileLength:129916
+FileModTime:1425927768
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,HP Simplified Bold Italic
+NameArray:0,Mac,4,HP Simplified Bold Italic
+NameArray:0,Win,1,HP Simplified
+NameArray:0,Win,16,HP Simplified
+%EndFont
+
